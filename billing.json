@@ -1,0 +1,50 @@
+[
+    {
+      "Item": "Apple",
+      "Quantity": 10,
+      "Price": 10000,
+      "Color": "Red"
+    },
+    {
+      "Item": "Banana",
+      "Quantity": 5,
+      "Price": 0.25,
+      "Color": "Yellow"
+    },
+    {
+      "Item": "Cherry",
+      "Quantity": 20,
+      "Price": 0.05,
+      "Color": "Red"
+    },
+    {
+      "Item": "Orange",
+      "Quantity": 15,
+      "Price": 0.35,
+      "Color": "Orange"
+    },
+    {
+      "Item": "Grapes",
+      "Quantity": 8,
+      "Price": 0.18,
+      "Color": "Purple"
+    },
+    {
+      "Item": "Pineapple",
+      "Quantity": 2,
+      "Price": 1.50,
+      "Color": "Yellow"
+    },
+    {
+      "Item": "Blueberry",
+      "Quantity": 12,
+      "Price": 0.10,
+      "Color": "Blue"
+    },
+    {
+      "Item": "Watermelon",
+      "Quantity": 1,
+      "Price": 3.75,
+      "Color": "Green/Red"
+    }
+]
